@@ -1,0 +1,8 @@
+diff -u // for comparing files in linux
+FD 	// for finding difference in windows
+
+log -stat	//for checking the log of all the commits
+commit		//for commiting each changes
+repository	//commiting multiple files at a time
+
+
